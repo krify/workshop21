@@ -296,5 +296,22 @@ a {
 	text-align: center;
 	font-size: 20px;
 }
-
-
+/* services page css */
+#services {
+	width: 1000px;
+	margin: 0px auto;
+	padding: 30px 0px;
+	border-bottom: 1px solid #D4D4D4;
+	color: #000000;
+}
+#services img {
+	width: 400px;
+	height: 200px;
+	float: left;
+}
+#services p {
+	margin-left: 10px;
+}
+.clear {
+	clear: both;
+}
