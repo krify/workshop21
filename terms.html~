@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Terms</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">Terms</a></h1>
+			<p>The following are the terms and conditions</p>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+		<!-- class="current_page_item" for that menu item -->
+			<li><a href="index.html">Home</a></li>
+			<li><a href="#">Services</a></li>
+			<li><a href="#">Portfolio</a></li>
+			<li><a href="#">About</a></li>
+			<li class="last"><a href="#">Contact</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	
+	<!-- start #page --> 
+	
+	<!-- end #page --> 
+	
+</div>
+<div id="footer">
+	<p>Copyright (c) 2016 Krify. All rights reserved.</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
