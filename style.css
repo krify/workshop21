@@ -315,3 +315,26 @@ a {
 .clear {
 	clear: both;
 }
+
+
+/*Quality Services page css*/
+
+#QualityServices
+{
+width: 1000px;
+margin: 0px auto;
+}
+
+#QualityServicesContent
+{
+line-height : 20px;
+margin: 10px auto;
+word-spacing: 5px;
+}
+
+#QSOperandi
+{
+line-height : 20px;
+margin: 10px auto;
+word-spacing: 5px;
+}
